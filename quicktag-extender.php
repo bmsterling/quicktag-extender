@@ -3,7 +3,7 @@
 Plugin Name: Quicktag Extender
 Plugin URI: http://benjaminsterling.com/wordpress-plugins/wordpress-quicktag-extender/
 Description: This plugin adds more buttons to the non-visual editor view for creating/editing posts/pages
-Version: 0.1.2
+Version: 0.1.4
 Author: Benjamin Sterling
 Author URI: http://kenzomedia.com
 License: 
